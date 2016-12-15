@@ -1,3 +1,14 @@
+input[type=submit] {
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    display:inline-block;
+    border:1px solid #181A1C;
+    color:#181A1C;
+    background-color:transparent;
+    padding:15px 30px;
+    font-size:17px;
+    line-height:auto;
+}
 
  body {
     font-family:'Roboto', sans-serif;
